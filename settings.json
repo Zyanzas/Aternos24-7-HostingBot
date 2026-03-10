@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": ""
+    "ip": "157.180.106.62",
+    "port": 24001,
+    "version": "1.26.3"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Zyan is my lord",
         "I like to play Minecraft!"
       ]
     },
